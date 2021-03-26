@@ -9,7 +9,7 @@ function App() {
         <p>
           React CI/CD Test
         </p>
-        <p>V 0.0.1</p>
+        <p>V 0.0.2</p>
       </header>
     </div>
   );
